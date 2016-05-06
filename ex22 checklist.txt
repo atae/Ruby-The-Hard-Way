@@ -1,0 +1,5 @@
+puts - prints the line and moves to the next line
+# - comment
+#{variable} - calls the value of the variable
+= assigns a value
+== 
